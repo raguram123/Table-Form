@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color:lightskyblue;
+    height: 100vh;
+}
+table, thead ,th{
+    border: 3px solid black;
+    border-collapse: collapse;
+    padding: 12px;
+    flex-direction:column;
+}
